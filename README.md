@@ -1,9 +1,9 @@
 # 🎨 Code Themes
 a repository containing hundreds of coding themes with pictures and links.
 
-## ❓How to Use
-1. Go to your desired theme markdown file: [LIGHT.md](https://github.com/ibnaleem/code-themes/blob/main/LIGHT.md), [DARK.md](https://github.com/ibnaleem/code-themes/blob/main/DARK.md), [COLOURFUL.md](https://github.com/ibnaleem/code-themes/blob/main/COLOURFUL.md).
-2. Simply click on the provided links and follow the installation steps.
+### ⚫️ [Dark Themes](https://github.com/ibnaleem/code-themes/blob/main/DARK.md)
+### ⚪️ [Light Themes](https://github.com/ibnaleem/code-themes/blob/main/LIGHT.md)
+### 🖼️ [Colourful Themes](https://github.com/ibnaleem/code-themes/blob/main/COLOURFUL.md)
 
 ## 🤝 Contributing
 I welcome contributions from the community and appreciate the time and effort put into making [code-themes](https://github.com/ibnaleem/code-themes) better. To contribute, please follow the guidelines and steps outlined below:
