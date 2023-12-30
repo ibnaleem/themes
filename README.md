@@ -1,5 +1,5 @@
 # 🎨 Themes
-a repository containing hundreds of coding themes with pictures and links.
+a repository containing themes for various platforms with pictures and links
 
 ### ⚫️ [Dark Themes](https://github.com/ibnaleem/code-themes/blob/main/DARK.md)
 ### ⚪️ [Light Themes](https://github.com/ibnaleem/code-themes/blob/main/LIGHT.md)
