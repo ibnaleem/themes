@@ -4,7 +4,6 @@ a repository containing hundreds of coding themes with pictures and links.
 ## ❓How to Use
 1. Go to your desired theme markdown file: [LIGHT.md](https://github.com/ibnaleem/code-themes/blob/main/LIGHT.md), [DARK.md](https://github.com/ibnaleem/code-themes/blob/main/DARK.md), [COLOURFUL.md](https://github.com/ibnaleem/code-themes/blob/main/COLOURFUL.md).
 2. Simply click on the provided links and follow the installation steps.
-> Ignore the [DARK](https://github.com/ibnaleem/code-themes/tree/main/DARK), LIGHT, & COLOURFUL directories (these only contain images)
 
 ## 🤝 Contributing
 I welcome contributions from the community and appreciate the time and effort put into making [code-themes](https://github.com/ibnaleem/code-themes) better. To contribute, please follow the guidelines and steps outlined below:
@@ -27,8 +26,7 @@ Before making any changes, it's recommended to create a new branch. This ensures
 $ git checkout -b branch-name
 ```
 ### Format for Contributions
-1. Upload the theme's screenshot in one of the directories it belongs to (if it's a dark theme, upload it to [DARK](https://github.com/ibnaleem/code-themes/tree/main/DARK))
-2. Edit the markdown file it belongs to, and add the following lines:
+1. Edit the markdown file the theme belongs to (for example, dark themes in [DARK.md](https://github.com/ibnaleem/code-themes/blob/main/DARK.md), and add the following lines:
 ```html
 <h2>THEME NAME</h2>
   <img src="link to screenshot" height="50%" width="50%"> // DO NOT CHANGE WIDTH AND HEIGHT
