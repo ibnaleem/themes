@@ -2,9 +2,9 @@
 a repository containing hundreds of coding themes with pictures and links.
 
 ## ❓How to Use
-1. Navigate to preferred theme markdown (LIGHT.md, DARK.md, COLOURFUL.md)
-2. Click links & install
-> Ignore the DARK, LIGHT, & COLOURFUL directories (these only contain images)
+1. Go to your desired theme markdown file: [LIGHT.md](https://github.com/ibnaleem/code-themes/blob/main/LIGHT.md), [DARK.md](https://github.com/ibnaleem/code-themes/blob/main/DARK.md), [COLOURFUL.md](https://github.com/ibnaleem/code-themes/blob/main/COLOURFUL.md).
+2. Simply click on the provided links and follow the installation steps.
+> Ignore the [DARK](https://github.com/ibnaleem/code-themes/tree/main/DARK), LIGHT, & COLOURFUL directories (these only contain images)
 
 ## 🤝 Contributing
 I welcome contributions from the community and appreciate the time and effort put into making [code-themes](https://github.com/ibnaleem/code-themes) better. To contribute, please follow the guidelines and steps outlined below:
@@ -30,7 +30,7 @@ $ git checkout -b branch-name
 1. Upload the theme's screenshot in one of the directories it belongs to (if it's a dark theme, upload it to [DARK](https://github.com/ibnaleem/code-themes/tree/main/DARK))
 2. Edit the markdown file it belongs to, and add the following lines:
 ```html
-<h2>THEME NAMEo</h2>
+<h2>THEME NAME</h2>
   <img src="link to screenshot" height="50%" width="50%"> // DO NOT CHANGE WIDTH AND HEIGHT
   <p><a href="link to VS Code theme">VS Code</a> • <a href="link to nvim theme">NVIM</a> • <a href="link to JetBrains theme">JetBrains</a> • <a href="link to Replit theme">Replit</a></p>
 ```
@@ -53,5 +53,7 @@ Head over to the [original repository](https://github.com/ibnaleem/code-themes) 
 3. Provide a clear and informative title for your pull request, and use the description box to explain the modifications you have made. **_Your pull request will be closed if you do not specify the changes you've made._**
 4. Finally, click on the "Create pull request" button to submit your changes.
 
-## LICENSE
-[This repository is under the MIT License](https://github.com/ibnaleem/gnupg-discord/blob/main/docs/LICENSE)
+### 👑 Created by [Ibn Aleem](https://github.com/ibnaleem)
+<div align="left">
+    <a href="https://www.buymeacoffee.com/ibnaleem" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
