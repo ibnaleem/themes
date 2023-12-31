@@ -3,6 +3,10 @@
   <img src="https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png" height="50%" width="50%">
   <p><a href="https://draculatheme.com/visual-studio-code">VS Code</a> • <a href="https://draculatheme.com/vim">Vim</a> • <a href="https://draculatheme.com/jetbrains">JetBrains</a> • <a href="https://draculatheme.com/sublime">Sublime Text</a> • <a href="https://draculatheme.com/emacs">Emacs</a> • <a href="https://draculatheme.com/xcode">XCode</a> • <a href="https://draculatheme.com/">more</a></p>
 
+  <h2>Monokai Pro</h2>
+  <img src="https://vscodethemes.com/e/monokai.theme-monokai-pro-vscode/monokai-pro.svg" height="50%" width="50%">
+  <p><a href="https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode">VS Code</a> • <a href="https://github.com/loctvl842/monokai-pro.nvim">Nvim</a> • <a href="https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme">JetBrains</a> • <a href="https://github.com/belak/emacs-monokai-pro-theme">Emacs</a> • <a href="https://github.com/torrudev/obsidian-monokai-pro">Obsidian</a> • <a href="https://monokai.pro/sublime-text">Sublime Text</a></p>
+
   <h2>Night Owl</h2>
   <img src="https://github.com/sdras/night-owl-vscode-theme/raw/main/first-screen.jpg" height="50%" width="50%">
   <p><a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">VS Code</a> • <a href="https://github.com/oxfist/night-owl.nvim">Nvim</a> • <a href="https://plugins.jetbrains.com/plugin/10936-night-owl-theme">JetBrains</a> • <a href="https://emacsthemes.com/themes/night-owl-theme.html">Emacs</a> • <a href="https://forum.obsidian.md/t/new-dark-theme-night-owl/18916">Obsidian</a> • <a href="https://hyper.is/store/hyper-night-owl">Hyper.js</a></p>
